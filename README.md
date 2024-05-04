@@ -1,6 +1,6 @@
 # Portfolio Website Description
 
-![Portfolio Website](<a href="https://ibb.co/c2BdHWT"><img src="https://i.ibb.co/xzkQ0n5/project-1.jpg" alt="project-1" border="0"></a>)
+![Portfolio Website]([project-1.jpg](https://postimg.cc/yJNq7hYS))
 
 
 A portfolio website is a personalized online platform that showcases an individual's or a company's work, skills, and accomplishments. It serves as a digital resume, providing visitors with a comprehensive overview of the creator's abilities, experiences, and projects. 

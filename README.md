@@ -1,7 +1,7 @@
 # Portfolio Website Description
 
-![Portfolio Website](![image](https://github.com/shet27/Portfolio/assets/96128274/092982bb-4555-40ed-91fc-2562ea1d9e09)
-)
+![Portfolio Website](https://app.gemoo.com/share/image-annotation/645323511852105728?codeId=v67oyw2jm102N&origin=imageurlgenerator&card=645323509226496000)
+
 
 A portfolio website is a personalized online platform that showcases an individual's or a company's work, skills, and accomplishments. It serves as a digital resume, providing visitors with a comprehensive overview of the creator's abilities, experiences, and projects. 
 

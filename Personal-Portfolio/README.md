@@ -1,43 +1,50 @@
-# vCard - Personal portfolio
-
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
-
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+# Alankar Jewellers 💍🛍️
 
-To install **vCard**, follow these steps:
+## Welcome to Alankar Jewellers !
 
-Linux and macOS:
+This project is an online platform for purchasing exquisite jewelry items. The application is designed to provide a seamless shopping experience for users interested in high-quality jewelry.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## Features
 
-Windows:
+### Product Catalog 📿
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- Browse a wide range of jewelry items, including rings, necklaces, bracelets, and earrings.
+- Different home page templates that are customizable based on your requirements.
 
-## Contact
+### User Authentication 🔐
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+- Create an account, log in, and manage your profile to track orders and save favorite items.
+
+### Shopping Cart 🛒
+
+- Easily add and remove items from your shopping cart before proceeding to checkout.
+
+### Secure Checkout 💳
+
+- Securely complete your purchase with integrated payment options.
+
+### Admin Dashboard 🛠️
+
+- Manage product listings, view and process orders, and oversee customer data.
+
+### Responsive Design 📱
+
+- Enjoy a seamless shopping experience across various devices.
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/shet27/Portfolio.git
+   
+This template should serve as a starting point, and you can customize it based on the specific details of your Jewelry Store  project. Include information about the types of jewelry you offer, payment gateways integrated, and any other unique features that set your project apart.
+
 
 ## License
 
